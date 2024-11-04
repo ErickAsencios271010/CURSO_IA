@@ -35,6 +35,10 @@ body {
     max-width: 230px;
 }
 
+#prolog{
+  width: 100px;
+  height: 100px;
+}
 
 
 #footer{
